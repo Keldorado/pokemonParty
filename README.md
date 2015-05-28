@@ -1,6 +1,8 @@
 #Pokemon Battle 
 
-This prgram is a study in animation using sin, rotate, and key inputs. It represents a Pokemon battle scene. 
+This program is a study in animation using sin, rotate, and key inputs. 
+
+This program is representitive of a Pokemon battle scene. 
 
 To make blastoise "faint" press the "s" key. 
 
